@@ -1,0 +1,1 @@
+Aplikacja dostępna tylko dla administratorów parkinu. Najwyraźniej nim nie jesteś :)
